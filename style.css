@@ -1,0 +1,63 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 80vh;
+    background-color: rgb(0, 25, 25);
+    width: 100vw;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 10em;
+    color: rgb(255, 255, 255);
+    background: url(khan.gif);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-position: center center;
+    background-size: 250%;
+    background-repeat: no-repeat;
+}
+
+.KHAN {
+    font-size: 30px;
+    min-height: 2%;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: rgb(92, 178, 178);
+    width: 100vw;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 10em;
+    color: rgb(255, 255, 255);
+    background: url(pazol.gif);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-position: center center;
+    background-size: 200%;
+    background-repeat: no-repeat;
+}
+
+.name {
+    font-weight: bold 10px;
+    font-size: 10em;
+}
